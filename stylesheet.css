@@ -28,20 +28,20 @@ b
 
 i
 	{
-	font-family: 'Calibri', sans-serif;
+	font-family: 'Calibri', "sans-serif";
 	color: rgb(255,255,255);
 	}
 
 
 h1
 	{
-	font-family: 'Comic Sans', sans-serif;
+	font-family: 'Comic Sans', "sans-serif";
 	}
 
 
 h2
 	{
-	font-family: 'Times New Roman', 'Georgia', sans-serif;
+	font-family: 'Times New Roman', 'Georgia', "sans-serif";
 	font-weight: 200;
 	font-size: 30px;
 	}
