@@ -1,0 +1,67 @@
+
+body
+	{
+	background-color: Blue;
+	}
+
+
+	{
+	background-color: Aqua;	
+	}
+
+section
+	{
+	background-color: BlueViolet;
+	}
+
+a
+	{
+	color: DarkGray;
+	}
+
+
+b
+	{
+	color: rgb(255,255,255);
+	}
+
+
+i
+	{
+	font-family: 'Calibri', sans-serif;
+	color: rgb(255,255,255);
+	}
+
+
+h1
+	{
+	font-family: 'Comic Sans', sans-serif;
+	}
+
+
+h2
+	{
+	font-family: 'Times New Roman', 'Georgia', sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	}
+
+
+p
+	{
+	font-family: 'Cambria', 'Cambria Math';
+	font-weight: lighter;
+	font-size: 1.25em;
+	}
+
+aside
+	{
+	color: rgb(255,0,255);
+	}
+
+img 
+	{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
