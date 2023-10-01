@@ -14,24 +14,15 @@ section
 	background-color: BlueViolet;
 	}
 
-a
+p
 	{
 	color: DarkGray;
 	}
 
-
-b
-	{
-	color: rgb(255,255,255);
-	}
-
-
-i
 	{
 	font-family: 'Calibri', "sans-serif";
 	color: rgb(255,255,255);
 	}
-
 
 h1
 	{
@@ -47,17 +38,6 @@ h2
 	}
 
 
-p
-	{
-	font-family: 'Cambria', 'Cambria Math';
-	font-weight: lighter;
-	font-size: 1.25em;
-	}
-
-aside
-	{
-	color: rgb(255,0,255);
-	}
 
 img 
 	{
